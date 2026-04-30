@@ -10,7 +10,7 @@ int main(void) {
         return 1;
     }
 
-    promedio = (n1 + n2 - n3) / 3.0;
+    promedio = (n1 + n2 + n3) / 3.0;
     printf("%.2f\n", promedio);
 
     return 0;
